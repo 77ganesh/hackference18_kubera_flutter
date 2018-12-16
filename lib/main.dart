@@ -143,7 +143,7 @@ class _MyHomePageState extends State<MyHomePage> {
       image: NetworkImage("https://plot.ly/~sravanbrahma/0.png"),
     ),
     WebviewScaffold(
-      url: "http://10.0.2.2:3000",
+      url: "http://40.67.145.100:3333",
     ),
     Center(
       child: Container(
